@@ -8,7 +8,7 @@ Our mission is to build a Mars rover that combines complex mechanics and advance
 
 
 > [!Note]
-> More information about us and the work we do can be found here:[Linktree](tbd) <--- WIP --->
+> More information about us and the work we do can be found here: [Linktree](https://linktr.ee/rover_to_mars)
 
 ## Our Rover
 
