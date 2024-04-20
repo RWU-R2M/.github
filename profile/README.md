@@ -6,7 +6,11 @@ We are the *"Rover to Mars"* (R2M) university group from Ravensburg-Weingarten U
 
 Our mission is to build a Mars rover that combines complex mechanics and advanced software development. We aim to participate in the annual *"Canadian International Rover Challenge"* in Canada with our rover. In 2019, we made history by becoming the first team from Germany to participate in this international competition!
 
+<<<<<<< HEAD
 > [!Note]
+=======
+> [!Info]
+>>>>>>> refs/remotes/origin/main
 > More information about us and the work we do can be found here:[Linktree](tbd) <--- WIP --->
 
 ## Our Rover
