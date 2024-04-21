@@ -1,0 +1,25 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Rover to Mars
+message: >-
+  The members of the university group "Rover to Mars" (R2M)
+  are constructing a Mars rover and presenting their
+  research in international competitions.
+type: software
+authors:
+  - given-names: Leandro
+    family-names: Ebner
+    email: leandro.ebner@outlook.de
+    affiliation: University of Applied Sciences Ravensburg-Weingarten
+    orcid: 'https://orcid.org/0009-0006-2742-3750'
+repository-code: 'https://github.com/RWU-R2M'
+url: 'https://rwu.de'
+abstract: test
+keywords:
+  - test keyord
+license: CERN-OHL-W-2.0
+commit: '11111'
+version: '1'
+date-released: '2024-04-01'
