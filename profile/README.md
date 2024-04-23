@@ -28,6 +28,3 @@ We are planning to participate in the "CIRC 2024 Summer Competition" which will 
 ## Join Our Team
 
 If you enjoy mechatronics, robotics, or would like to unfold your organizational talent, this project is just right for you! Join us in our mission to explore the challenges of space exploration and make RWU proud on the international stage.
-
-> [!Warning]
-> The repositories available in this organization underly constant maintainance and are still under heavy development.
