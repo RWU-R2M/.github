@@ -1,7 +1,7 @@
 # Rover to Mars (R2M) at RWU :rocket::artificial_satellite:
 
-![bmc_qr](https://github.com/RWU-R2M/.github/assets/116027657/927db9dd-4d50-4f8e-bc5d-4e0216b48753 | width=10)
-
+> [!Warning]
+> The repositories available in this organization underly constant maintainance and are still under heavy development.
 
 ## About Us
 
