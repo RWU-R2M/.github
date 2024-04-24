@@ -28,3 +28,18 @@ We are planning to participate in the "CIRC 2024 Summer Competition" which will 
 ## Join Our Team
 
 If you enjoy mechatronics, robotics, or would like to unfold your organizational talent, this project is just right for you! Join us in our mission to explore the challenges of space exploration and make RWU proud on the international stage.
+
+## License
+
+    Open Source University Mars Rover Research
+    Copyright (C) 2024 "Rover to Mars" (R2M)
+
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
