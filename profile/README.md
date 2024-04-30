@@ -20,11 +20,11 @@ Our rover is a testament to the interdisciplinary collaboration of our team memb
 
 ## Canadian International Rover Challenge (CIRC)
 
-The *CIRC* is an annual competition that simulates the challenges of establishing an early colony on an extraterrestrial planet. It encourages and rewards innovative and creative design, and provides a valuable addition to the education of anyone with an interest in science and technology.
+The *"CIRC"* is an annual competition that simulates the challenges of establishing an early colony on an extraterrestrial planet. It encourages and rewards innovative and creative design, and provides a valuable addition to the education of anyone with an interest in science and technology.
 
 ## Upcoming Competition
 
-We are planning to participate in the "CIRC 2024 Summer Competition" which will take place from August 9 to 12, 2024, in Alberta (Drumheller), Canada.
+We are planning to participate in the "*CIRC 2024 Summer Competition*" which will take place from August 9 to 12, 2024, in Alberta (Drumheller), Canada.
 
 ## Join Our Team
 
@@ -32,15 +32,4 @@ If you enjoy mechatronics, robotics, or would like to unfold your organizational
 
 ## License
 
-	Open Source University Mars Rover Research
-	Copyright (C) 2024 "Rover to Mars" (R2M)
 
-	This program is free software: you can redistribute it and/or modify
-	it under the terms of the GNU General Public License as published by
-	the Free Software Foundation, either version 3 of the License, or
-	(at your option) any later version.
-
-	This program is distributed in the hope that it will be useful,
-	but WITHOUT ANY WARRANTY; without even the implied warranty of
-	MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
-	See the GNU General Public License for more details.
