@@ -1,5 +1,5 @@
 # Rover to Mars (R2M) at RWU :rocket::artificial_satellite:
-[![pages-build-deployment](https://github.com/RWU-R2M/rwu-r2m.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/RWU-R2M/rwu-r2m.github.io/actions/workflows/pages/pages-build-deployment)
+[![GitHub Pages](https://github.com/RWU-R2M/rwu-r2m.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/RWU-R2M/rwu-r2m.github.io/actions/workflows/pages/pages-build-deployment)
 
 > [!Warning]
 > The repositories available in this organization underly constant maintainance and are still under heavy development!
