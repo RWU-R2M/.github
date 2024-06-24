@@ -32,4 +32,10 @@ If you enjoy mechatronics, robotics, or would like to unfold your organizational
 
 ## License
 
+The entire R2M project and the corresponding repositories are licensed under adequate permissions and authorization, depending on what the repository is used for. In example, hardware and software repositories differ from their contained work and therefore need appropriate individul licenses. 
+
+> [!WARNING]
+> Every information and work of this organization is part of at least one repository. Please refer to the underlying license of the source repository respectively or reach out directly when having concerns!
+
+
 
